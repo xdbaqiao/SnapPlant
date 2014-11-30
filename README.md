@@ -1,1 +1,1 @@
-It's a plant identification app.
+**It's a plant identification app.**
